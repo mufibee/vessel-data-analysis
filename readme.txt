@@ -47,6 +47,6 @@ VESSEL DATA ANALYSIS PROJECT - SETUP INSTRUCTIONS
    - Virtual environment: Restart VS Code after creating venv
 
 6. KEY FILES
-   - vessel_analysis.ipynb : Main analysis notebook
+   - notebook.ipynb : Main analysis notebook
    - vessel_characteristics.csv : Vessel attribute data
    - vessel_positions.csv : Positional and operational data
